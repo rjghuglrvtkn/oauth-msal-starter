@@ -4,7 +4,7 @@ class Config(object):
     CLIENT_SECRET = "cLclRT~vo81~0Fs_N6_b4RZ6f6iDOYuah." 
 
     #AUTHORITY = "https://login.microsoftonline.com/common"  # For multi-tenant app
-    AUTHORITY = "https://login.microsoftonline.com/Merrimack College"
+    AUTHORITY = "https://login.microsoftonline.com/57e1236c-0fa3-4739-9edf-fd0721c8744d"
 
     # TODO: Enter your application client ID here
     CLIENT_ID = "d4928e4b-bc12-4573-8bb4-ca31ac41e1fe"
